@@ -1,0 +1,2 @@
+LICENSE
+nobody except leaperfrog could use this file!
